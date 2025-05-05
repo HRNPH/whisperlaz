@@ -1,0 +1,25 @@
+[project]
+name = "whisperlaz"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "accelerate>=1.6.0",
+    "bitsandbytes>=0.45.5",
+    "datasets>=3.5.1",
+    "evaluate>=0.4.3",
+    "ipykernel>=6.29.5",
+    "ipywidgets>=8.1.6",
+    "jiwer>=3.1.0",
+    "jupytext>=1.17.1",
+    "librosa>=0.11.0",
+    "numpy>=2.2.5",
+    "pandas>=2.2.3",
+    "torchaudio>=2.7.0",
+    "tqdm>=4.67.1",
+    "transformers>=4.51.3",
+    "wandb>=0.19.10",
+    "webvtt-py>=0.5.1",
+    "whisper>=1.1.10",
+]
