@@ -1,0 +1,8 @@
+,model,wer,cer
+0,whisper-ja-asmr-tiny-1-earlyst/final,1.232,2.649
+1,whisper-ja-asmr-small-1-earlyst/final,1.141,0.785
+2,japanese-asr/distil-whisper-large-v3-ja-reazonspeech-all,0.9055812001678556,0.2835087506445449
+3,openai/whisper-tiny,1.5812001678556442,1.1274227304437503
+4,openai/whisper-small,1.3503986571548467,0.5287391185659256
+5,openai/whisper-medium,1.1980696600923206,0.5600715823955837
+6,openai/whisper-large-v3,0.9664288711707931,0.31071612727107284

@@ -1,0 +1,10 @@
+model,wer,cer
+./whisper-ja-asmr-distil-whisper-large-v3-ja-reazonspeech-all-1-earlyst-normalize-warm-lora-baonly/final-merged,0.916911456147713,0.29194091419211987
+./whisper-ja-asmr-tiny-1-earlyst/final,1.0973562736047,0.9417938063028906
+./whisper-ja-asmr-small-1-earlyst/final,1.0956777171632397,0.6106645636810337
+./whisper-ja-asmr-tiny-2-earlyst-normalize-warm/final,1.126731011330256,1.270193211805029
+openai/whisper-tiny,4.770037767519933,1.674027116382056
+openai/whisper-small,4.85228703315149,1.8669356061754983
+openai/whisper-medium,5.025178346621905,1.9147987503412296
+openai/whisper-large-v3,5.34158623583718,1.988443689526525
+japanese-asr/distil-whisper-large-v3-ja-reazonspeech-all,0.9530004196391104,0.4050168339955716

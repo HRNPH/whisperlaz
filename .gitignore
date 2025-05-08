@@ -1,3 +1,5 @@
 /.venv
 /data*
 /preprocessed_segments
+/wandb
+/whisper-ja-asmr*

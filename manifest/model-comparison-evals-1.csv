@@ -1,0 +1,4 @@
+model,wer,cer
+japanese-asr/distil-whisper-large-v3-ja-reazonspeech-small,0.9664288711707931,0.5014710788922928
+japanese-asr/distil-whisper-large-v3-ja-reazonspeech-medium,0.955937893411666,0.4286147593193606
+japanese-asr/distil-whisper-large-v3-ja-reazonspeech-all,0.9530004196391104,0.4050168339955716
